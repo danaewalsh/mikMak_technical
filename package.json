@@ -1,0 +1,19 @@
+{
+  "name": "mikmak_technical",
+  "version": "1.0.0",
+  "description": "",
+  "main": "technical.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danaewalsh/mikMak_technical.git"
+  },
+  "author": "Dana Walsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danaewalsh/mikMak_technical/issues"
+  },
+  "homepage": "https://github.com/danaewalsh/mikMak_technical#readme"
+}
